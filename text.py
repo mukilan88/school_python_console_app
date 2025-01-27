@@ -1,7 +1,7 @@
 import random
 
 def word_guessing_game():
-    print("Welcome to the Word Guessing Game!")
+    print("Welcome to Guess the Word Game!")
     print("Guess the three letter word at a time. You have 3 chances.\n")
 
     # List of words with hints
